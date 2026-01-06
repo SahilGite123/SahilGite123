@@ -36,14 +36,14 @@ I am actively exploring **full-stack development** and **machine learning**, wit
 
 ---
 
-## 🤝 Leadership & Activities
+## Leadership & Activities
 
 - Joint Technical Head – Computer Society of India (VIIT Chapter)  
 - Active participant in hackathons and technical events  
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Sahil Gite](https://www.linkedin.com/in/sahilgite/) 
 - **LeetCode:** [_SahilGite123 ](https://leetcode.com/u/Sahil_Gite/) 
